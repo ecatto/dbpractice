@@ -2,6 +2,10 @@
 
 ## Practicing markdown
 
+Essential to have at the start a link to github repository and to where the project is hosted
+
+---
+
 This file will be the documentation for the assignment and will include formatting such as *italics,* **bold**
 
 * unordered

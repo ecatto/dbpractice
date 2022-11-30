@@ -1,6 +1,6 @@
 # dbpractice
 
-##Practicing markdown
+## Practicing markdown
 
 This file will be the documentation for the assignment and will include formatting such as *italics,* **bold**
 
